@@ -36,7 +36,8 @@ You will need the latest [beta version of CWB](http://cwb.sourceforge.net/beta.p
 
 Check out the latest version of the source code using Subversion by running the following command in a terminal:
 
-    $ svn co https://cwb.svn.sourceforge.net/svnroot/cwb/cwb/trunk cwb
+    $ svn co http://svn.code.sf.net/p/cwb/code/cwb/trunk cwb
+
 
 Refer to the INSTALL text file for instructions on how to build and install on your system. The source code comes with
 a bunch of install scripts, so if you're lucky all you have to do is run one of them. For example on Ubuntu:
