@@ -47,7 +47,7 @@ a bunch of install scripts, so if you're lucky all you have to do is run one of 
 Once CWB is installed, by default you will find it under `/usr/local/cwb-X.X.X/bin` (where `X.X.X` is the version
 number). Confirm that the installation was successful by running:
 
-    /usr/local/cwb-X.X.X/bin/cqp -v
+    /usr/local/cwb-3.4.14/bin/cqp -v
 
 CWB needs two directories for storing the corpora. One for the data, and one for the corpus registry.
 You may create these directories wherever you want, but from here on we will assume that you have created the
