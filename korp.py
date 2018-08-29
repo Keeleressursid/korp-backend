@@ -61,6 +61,9 @@ from flask import Flask, request, Response, stream_with_context, copy_current_re
 from flask_mysqldb import MySQL
 from flask_cors import CORS
 
+
+cache_disabled = True
+
 ################################################################################
 # Nothing needs to be changed in this file. Use config.py for configuration.
 
