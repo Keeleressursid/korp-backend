@@ -87,6 +87,10 @@ The absolute path to the cwb-scan-corpus binary. By default `/usr/local/cwb-X.X.
 * `CWB_REGISTRY`  
 The absolute path to the CWB registry files. This is the `/corpora/registry` folder you created before.
 
+* `LC_COLLATE`  
+Locale to use when sorting.
+
+
 If you are planning on using functionality dependent on a database, you also need to set the following variables:
 
 * `DBNAME`  
